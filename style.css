@@ -1,0 +1,28 @@
+#szoveg {
+    padding: 10px;
+
+}
+
+.valasztas {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#kivalasztott {
+    border-radius: 10px;
+}
+
+#elsodiv {
+    padding: 0px !important;
+}
+
+#gyumolcsok {
+    width: 100%;
+    border: 2px solid orange;
+    border-radius: 5px;
+    height: 35%;
+    font-size: 1rem;
+    color: grey;
+    padding: 10px;
+}
+
